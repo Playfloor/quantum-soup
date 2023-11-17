@@ -19,7 +19,6 @@ Hypercube Two
 1. The Alpha Crystal
 2. The Beta Zero Mechanism
 3. The Future of Digital Personhood
-(Now called Barely Needed Protocols)
 4. Iterative Prompt Sculpting
 5. Holistic Anocracy
 6. Cyclofabianism
